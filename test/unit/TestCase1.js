@@ -1,7 +1,13 @@
-describe("A suite of basic functions", function() {
-    it("reverse word",function(){
+describe("src/index.js", function() {
+    it("reverse",function(){
     		// console.log('adsakdsjakdsja');
         expect("DCBA").toEqual(reverse("ABCD"));
-        expect("DCBA").toEqual(reverse2("ABCD"));
     });
 });
+
+// describe("src/a.js", function() {
+//     it("reverse2",function(){
+//     		// console.log('adsakdsjakdsja');
+//         expect("D|C|B|A").toEqual(reverse2("ABCD"));
+//     });
+// });
