@@ -5,9 +5,3 @@ describe("src/index.js", function() {
     });
 });
 
-// describe("src/a.js", function() {
-//     it("reverse2",function(){
-//     		// console.log('adsakdsjakdsja');
-//         expect("D|C|B|A").toEqual(reverse2("ABCD"));
-//     });
-// });
